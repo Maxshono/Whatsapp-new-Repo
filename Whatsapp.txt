@@ -10,3 +10,5 @@ Author: Arulprasath
 
 4. Attachments (Image, Audio, video, Documents) code
 
+ Hiding the last seen
+
